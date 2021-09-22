@@ -1,27 +1,13 @@
 
 <h1 align="center">
   <br>
-  <a href="https://amchss.github.io/RIntro2021/"><img src="https://github.com/amchss/RIntro2021/blob/main/RIntro2021_hex.png" alt="Markdownify" width="200"></a>
+  <a href="https://amchss.github.io/RIntro2021/"><img src="https://github.com/amchss/RIntro2021/blob/main/RIntro2021_hex.png" width="200"></a>
   <br>
   RIntro2021
   <br>
 </h1>
 
 <h4 align="center">A workshop on  <a href="https://amchss.github.io/RIntro2021/" target="_blank">Data Analysis using R</a> for Health Professional organized by  <a href="https://www.sctimst.ac.in/About%20SCTIMST/Organisation/AMCHSS/" target="_blank">AMCHSS</a>, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum.</h4>
-
-<p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •

@@ -8,8 +8,6 @@
   <br>
   21 -- 23 October, 2021
   <br>
-  AMCHSS, Sree Chitra Tirunal Institute for Medical Sciences & Technology, Trivandrum, Kerala
-  <br>
 </h1>
 
 <p align="center">
@@ -25,15 +23,15 @@
 
 ## Details of the Workshop
 <h3>
-Register here: https://forms.gle/Pkh6Px7g7WaS6Vpi7
-    <br>
+Register here: <a href="https://forms.gle/Pkh6Px7g7WaS6Vpi7" https://forms.gle/Pkh6Px7g7WaS6Vpi7 </a>
+    <br> </br>
 Registration Fee: Rs. 3,000/- (for students), Rs. 5,000/- (for others)
-  <br>
+  <br> </br>
 Limited Seats: 20 Participants
-  <br>
+  <br> </br>
 Mode: In-person (Offline/Physical)
-  <br>
-COVID-19 Dashboard: https://amchss-sctimst.shinyapps.io/covid_dashboard/
+  <br> </br>
+COVID-19 Dashboard: <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/" https://amchss-sctimst.shinyapps.io/covid_dashboard/ </a>
 </h3>
 
 ## Purpose 

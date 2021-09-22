@@ -10,15 +10,27 @@
 <h4 align="center">A workshop on  <a href="https://amchss.github.io/RIntro2021/" target="_blank">Data Analysis using R</a> for Health Professional organized by  <a href="https://www.sctimst.ac.in/About%20SCTIMST/Organisation/AMCHSS/" target="_blank">AMCHSS</a>, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum.</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#purpose">Purpose</a> •
+  <a href="#team">Team</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+## Purpose 
+
+The workshop is envisioned for the development of skilled health professionals with competencies in the data science approach in health research. It is expected that after the successfull completion of the workshop, the participants will be comfortable with the statistical programming language R, and the RStudio IDE environment. They will be able to work with various datasets of different formats, manage them in an effecient manner by undertaking cleaning, tidying and wrangling of data into analysable formats. They will be able to perform exploratory data analysis including data visualization and apply various statistical techniques for epidemiological inference. The participants also will be conversant in communicating their research findings through high quality documents, reports, presentations and dashboards with R Markdown. 
+
+
+![data-science-life-cycle](https://github.com/amchss/RIntro2021/blob/main/public-health-data-science-r4ds-general.png)
+
+## Team
+![biju](https://github.com/amchss/RIntro2021/blob/main/biju.png)
+
+![gurpreet](https://github.com/amchss/RIntro2021/blob/main/gurpreet.png)
+
+![arun](https://github.com/amchss/RIntro2021/blob/main/arun1.png)
 
 ## Key Features
 

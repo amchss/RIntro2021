@@ -14,7 +14,7 @@
   <a href="#purpose">Purpose</a> •
   <a href="#team">Team</a> •
   <a href="#related-work">Related Work</a> •
-  <a href="#topics">Topics</a> •
+  <a href="#topics-covered">Topics Covered</a> •
   <a href="#schedule">Schedule</a> •
   <a href="#contact">Contact</a>
 </p>
@@ -70,8 +70,30 @@ Some of our recent work on the data science approach to heatlh research are:
 - Panicker RO, Soman B, Sabu MK. Tuberculosis Detection from Conventional Sputum Smear Microscopic Images Using Machine Learning Techniques. Hybrid Computational Intelligence: Research and Applications. 2019 Sep 30:63.
 
 
-## Topics
+## Topics Covered
+
+- Managing Projects in RStudio
+- Concepts of Tidy Data
+- Data Wrangling and Transformation
+- Exploratory Data Analysis
+- Data Visualization
+- Statistical Inference
+- Communicating Research with RMarkdown
 
 ## Schedule
 
+Coming Soon...
+
 ## Contact
+
+For any queries please contact:
+
+|Email:   | amchss.sctimst@gmail.com   |  amchss@sctimst.ac.in  |  
+|---|---|---|
+|Phone:   |+91 471 2524638   |   +91 9503563356 |
+|Address:   |  <a href="https://goo.gl/maps/7nhZLRb2woLNT4Dm8"><img src="https://i.ibb.co/cD5VTJH/amc-map.jpg" width = "300" alt="AMCHSS Map" border="0"></a>  | New OP Road, near Sree Chitra Tirunal Institute for Medical Sciences & Technology, Medical College Campus, Thiruvananthapuram, Kerala 695011|   
+
+
+ 
+
+

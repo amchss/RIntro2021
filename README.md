@@ -24,21 +24,21 @@
 ## Details of the Workshop
 <h3>
 Register here: <a href="https://forms.gle/Pkh6Px7g7WaS6Vpi7"> https://forms.gle/Pkh6Px7g7WaS6Vpi7 </a>
-</h3>
+
 <br> 
-<h3>
+
 Registration Fee: Rs. 3,000/- (for students), Rs. 5,000/- (for others)
-</h3>
+
 <br> 
-<h3>
+
 Limited Seats: 20 Participants
-</h3>
+
 <br> 
-<h3>
+
 Mode: In-person (Offline/Physical)
-</h3>
+
 <br> 
-<h3>
+
 COVID-19 Dashboard: <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"> https://amchss-sctimst.shinyapps.io/covid_dashboard/ </a>
 </h3>
 

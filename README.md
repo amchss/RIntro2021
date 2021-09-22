@@ -90,7 +90,16 @@ Some of our recent work on the data science approach to health research are:
 
 ## Schedule
 
-Coming Soon...
+A tentative schedule of the workshop is provided below:
+
+|         Date       |       Timings    |     Topic                                              |
+|:------------------:|:----------------:|--------------------------------------------------------|
+|     21 Oct 2021    |     0900-1300    |     Introduction and Concepts                          | 
+|                    |     1400-1700    |     Project Management                                 |  
+|     22 Oct 2021    |     0900-1300    |     Exploratory Data Analysis and Data Visualization   |   
+|                    |     1400-1700    |     Statistical analysis                               |   
+|     23 Oct 2021    |     0900-1300    |     Communicating Results                              |   
+|                    |     1400-1700    |     Advanced concepts / Feedback / Valedictory         | 
 
 ## Contact
 

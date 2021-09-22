@@ -6,7 +6,7 @@
   <br>
   Data Analysis using R
   <br>
-  21 -- 23 October, 2021
+  21 - 23 October, 2021
   <br>
 </h1>
 

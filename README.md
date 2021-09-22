@@ -21,6 +21,17 @@
 
 <h2>
 Register here: https://forms.gle/Pkh6Px7g7WaS6Vpi7
+  <br>
+Limited Seats: 20 Participants
+  <br>
+Dates: 21 -- 23 October, 2021
+  <br>
+Venue: AMCHSS, Sree Chitra Tirunal Institute for Medical Sciences & Technology, Trivandrum, Kerala
+  <br>
+Mode: In-person (Offline)
+  <br>
+Registration Fee: Rs. 3,000/- (for students), Rs. 5,000/- (for others)
+  <br>
 </h2>
 
 ## Purpose 
@@ -44,17 +55,19 @@ We are a group of research scholars and faculty at Achutha Menon Centre for Heal
 
 ## Related Work
 
-Much of our work has been well received and won many awards at various national and internation forums. Some of the work related to the data science approach to heatlh reasearch is presented below:
+The team has been involved in many research and training activities related to health data science. The major focus of our work has been the tranformation of routine health data into robust evidence for informed decision making using reproducible frameworks and open-source tools incluing R and RStudio. Some of our recent work include the development of a dashboard for tracking and monitoring COVID-19 outbreak in India using publicly available data (https://amchss-sctimst.shinyapps.io/covid_dashboard/) which has been well received and won awards at national and internation forums. 
 
-1.  Mitra, A., Pakhare, A. P., Roy, A., & Joshi, A. (2020). Impact of COVID-19 epidemic curtailment strategies in selected Indian states: an analysis by reproduction number and doubling time with incidence modelling. PloS one, 15(9), e0239026.
+Some of our recent work on the data science approach to heatlh research are:
 
-2.  Thompson, H. A., Mousa, A., Dighe, A., Fu, H., Arnedo-Pena, A., Barrett, P., Bellido-Blasco, J., Bi, Q., Caputi, A., Chaw, L., De Maria, L., Hoffmann, M., Mahapure, K., Ng, K., Raghuram, J., Singh, G., Soman, B., Soriano, V., Valent, F., Vimercati, L., ... Ferguson, N. M. (2021). SARS-CoV-2 setting-specific transmission rates: a systematic review and meta-analysis. Clinical infectious diseases: an official publication of the Infectious Diseases Society of America, ciab100. Advance online publication. <https://doi.org/10.1093/cid/ciab100>
-
-3.  Panicker RO, Soman B, Sabu MK. Tuberculosis Detection from Conventional Sputum Smear Microscopic Images Using Machine Learning Techniques. Hybrid Computational Intelligence: Research and Applications. 2019 Sep 30:63.
-
-4.  Singh G, Srinivas G, Jyothi EK, Gayatri LK, Gaitonde R, Soman B. Containing the first outbreak of COVID-19 in a healthcare setting in India: The Sree Chitra experience. Indian Journal of Public Health. 2020 Jun 1;64(6):240.
-
-5.  Singh G, Patrikar S, Sarma PS, Soman B. Time-dependent dynamic transmission potential and instantaneous reproduction number of COVID-19 pandemic in India. medRxiv. 2020 Jan 1
+- Mitra, A., Pakhare, A. P., Roy, A., & Joshi, A. (2020). Impact of COVID-19 epidemic curtailment strategies in selected Indian states: an analysis by reproduction number and doubling time with incidence modelling. PloS one, 15(9), e0239026.
+- Mitra A, Soman B, Singh G. An Interactive Dashboard for Real-Time Analytics and Monitoring of COVID-19 Outbreak in India: A proof of Concept. arXiv preprint arXiv:2108.09937. 2021 Aug 23.
+- Singh G, Soman B, Mitra A. A Systematic Approach to Cleaning Routine Health Surveillance Datasets: An Illustration Using National Vector Borne Disease Control Programme Data of Punjab, India. arXiv preprint arXiv:2108.09963. 2021 Aug 23.
+- Singh G, Srinivas G, Jyothi EK, Gayatri LK, Gaitonde R, Soman B. Containing the first outbreak of COVID-19 in a healthcare setting in India: The Sree Chitra experience. Indian Journal of Public Health. 2020 Jun 1;64(6):240.
+- Singh G, Patrikar S, Sarma PS, Soman B. Time-dependent dynamic transmission potential and instantaneous reproduction number of COVID-19 pandemic in India. medRxiv. 2020 Jan 1
+- Anand, N., Soman, B., & Prakash, M. (2021). Epidemiological profiling of fatal road crashes in Puducherry, South Coastal India. Indian Journal of Public Health, 65(2), 203. https://doi.org/10.4103/ijph.IJPH_1436_20
+- Singh, G., & Soman, B. (2021). Spatiotemporal epidemiology and forecasting of dengue in the state of Punjab, India: Study protocol. Spatial and Spatio-Temporal Epidemiology, 39, 100444. https://doi.org/10.1016/j.sste.2021.100444
+- Thompson, H. A., Mousa, A., Dighe, A., Fu, H., Arnedo-Pena, A., Barrett, P., Bellido-Blasco, J., Bi, Q., Caputi, A., Chaw, L., De Maria, L., Hoffmann, M., Mahapure, K., Ng, K., Raghuram, J., Singh, G., Soman, B., Soriano, V., Valent, F., Vimercati, L., ... Ferguson, N. M. (2021). SARS-CoV-2 setting-specific transmission rates: a systematic review and meta-analysis. Clinical infectious diseases: an official publication of the Infectious Diseases Society of America, ciab100. Advance online publication. <https://doi.org/10.1093/cid/ciab100>
+- Panicker RO, Soman B, Sabu MK. Tuberculosis Detection from Conventional Sputum Smear Microscopic Images Using Machine Learning Techniques. Hybrid Computational Intelligence: Research and Applications. 2019 Sep 30:63.
 
 
 ## Topics

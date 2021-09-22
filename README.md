@@ -59,6 +59,11 @@ We are a group of research scholars and faculty at Achutha Menon Centre for Heal
 
 The team has been involved in many research and training activities related to health data science. The major focus of our work has been the tranformation of routine health data into robust evidence for informed decision making using reproducible frameworks and open-source tools incluing R and RStudio. Some of our recent work include the development of a dashboard for tracking and monitoring COVID-19 outbreak in India using publicly available data (https://amchss-sctimst.shinyapps.io/covid_dashboard/) which has been well received and won awards at national and internation forums. 
 
+<p align="center">
+     <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"><img src="https://i.ibb.co/3mm1nKR/dashboard-homepage.png" alt="dashboard-homepage" border="0"></a>
+</p>
+
+
 Some of our recent work on the data science approach to health research are:
 
 - Mitra, A., Pakhare, A. P., Roy, A., & Joshi, A. (2020). Impact of COVID-19 epidemic curtailment strategies in selected Indian states: an analysis by reproduction number and doubling time with incidence modelling. PloS one, 15(9), e0239026.

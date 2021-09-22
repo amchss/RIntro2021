@@ -91,7 +91,7 @@ For any queries please contact:
 |Email:   | amchss.sctimst@gmail.com   |  amchss@sctimst.ac.in  |  
 |---|---|---|
 |Phone:   |+91 471 2524638   |   +91 9503563356 |
-|Address:   |  <a href="https://goo.gl/maps/7nhZLRb2woLNT4Dm8"><img src="https://i.ibb.co/cD5VTJH/amc-map.jpg" width = "300" alt="AMCHSS Map" border="0"></a>  | New OP Road, near Sree Chitra Tirunal Institute for Medical Sciences & Technology, Medical College Campus, Thiruvananthapuram, Kerala 695011|   
+|Address:   |  <a href="https://goo.gl/maps/7nhZLRb2woLNT4Dm8"><img src="https://i.ibb.co/cD5VTJH/amc-map.jpg" width = "300" alt="AMCHSS Map" border="0"></a>  | Achutha Menon Centre for Health Science Studies,  New OP Road, near Sree Chitra Tirunal Institute for Medical Sciences & Technology, Medical College Campus, Thiruvananthapuram, Kerala 695011|   
 
 
  

@@ -19,12 +19,17 @@
   <a href="#contact">Contact</a>
 </p>
 
+<h2>
+Register here: https://forms.gle/Pkh6Px7g7WaS6Vpi7
+</h2>
+
 ## Purpose 
 
 The workshop is envisioned for the development of skilled health professionals with competencies in the data science approach in health research. It is expected that after the successfull completion of the workshop, the participants will be comfortable with the statistical programming language R, and the RStudio IDE environment. They will be able to work with various datasets of different formats, manage them in an effecient manner by undertaking cleaning, tidying and wrangling of data into analysable formats. They will be able to perform exploratory data analysis including data visualization and apply various statistical techniques for epidemiological inference. The participants also will be conversant in communicating their research findings through high quality documents, reports, presentations and dashboards with R Markdown. 
 
-
-![data-science-life-cycle](https://i.ibb.co/rcw7sqv/ph-ds.png)
+<p align="center">
+     <img src="https://i.ibb.co/6ymW92V/public-health-data-science-r4ds-general.png">
+</p>
 
 ## Team
 

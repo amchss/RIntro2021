@@ -1,8 +1,4 @@
----
-output:
-  html_document:
-    css: https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
----
+
 
 <h1 align="center">
   <br>
@@ -31,9 +27,9 @@ The workshop is envisioned for the development of skilled health professionals w
 ![data-science-life-cycle](https://github.com/amchss/RIntro2021/blob/main/public-health-data-science-r4ds-general.png)
 
 ## Team
-<img src="https://github.com/amchss/RIntro2021/blob/main/biju.png" alt="Biju" width="50"/> Dr. Biju Soman, Professor, AMCHSS <i class="ai ai-google-scholar-square"></i> 
+<img src="https://github.com/amchss/RIntro2021/blob/main/biju.png" alt="Biju" width="50"/> Dr. Biju Soman, Professor, AMCHSS <img height="32" width="32" src="https://simpleicons.org/icons/researchgate.svg" />
 
-<img src="https://github.com/amchss/RIntro2021/blob/main/gurpreet.png" alt="Gurpreet" width="50"/> Dr. Gurpreet Singh, PhD Scholar, AMCHSS <i class="ai ai-google-scholar-square"></i>
+<img src="https://github.com/amchss/RIntro2021/blob/main/gurpreet.png" alt="Gurpreet" width="50"/> Dr. Gurpreet Singh, PhD Scholar, AMCHSS <i class="fab fa-linkedin"></i>
 
 <img src="https://github.com/amchss/RIntro2021/blob/main/arun1.png" alt="Arun" width="50"/> Dr. Arun Mitra, PhD Scholar, AMCHSS <i class="ai ai-google-scholar-square"></i>
 

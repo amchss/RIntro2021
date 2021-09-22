@@ -44,7 +44,7 @@ COVID-19 Dashboard: <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard
 
 ## Purpose 
 
-The workshop is envisioned for the development of skilled health professionals with competencies in the data science approach in health research. It is expected that after the successfull completion of the workshop, the participants will be comfortable with the statistical programming language R, and the RStudio IDE environment. They will be able to work with various datasets of different formats, manage them in an effecient manner by undertaking cleaning, tidying and wrangling of data into analysable formats. They will be able to perform exploratory data analysis including data visualization and apply various statistical techniques for epidemiological inference. The participants also will be conversant in communicating their research findings through high quality documents, reports, presentations and dashboards with R Markdown. 
+The workshop is envisioned for the development of skilled health professionals with competencies in the data science approach in health research. It is expected that after the successful completion of the workshop, the participants will be comfortable with the statistical programming language R, and the RStudio IDE environment. They will be able to work with various datasets of different formats, manage them in an efficient manner by undertaking cleaning, tidying and wrangling of data into analysable formats. They will be able to perform exploratory data analysis including data visualization and apply various statistical techniques for epidemiological inference. The participants also will be conversant in communicating their research findings through high quality documents, reports, presentations and dashboards with R Markdown. 
 
 <p align="center">
      <img src="https://i.ibb.co/6ymW92V/public-health-data-science-r4ds-general.png">
@@ -63,7 +63,7 @@ We are a group of research scholars and faculty at Achutha Menon Centre for Heal
 
 ## Related Work
 
-The team has been involved in many research and training activities related to health data science. The major focus of our work has been the tranformation of routine health data into robust evidence for informed decision making using reproducible frameworks and open-source tools incluing R and RStudio. Some of our recent work include the development of a dashboard for tracking and monitoring COVID-19 outbreak in India using publicly available data ( <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"> https://amchss-sctimst.shinyapps.io/covid_dashboard/ </a>) which has been well received and won awards at national and international forums. 
+The team has been involved in many research and training activities related to health data science. The major focus of our work has been the transformation of routine health data into robust evidence for informed decision making using reproducible frameworks and open-source tools inclduing R and RStudio. Some of our recent work include the development of a dashboard for tracking and monitoring COVID-19 outbreak in India using publicly available data ( <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"> https://amchss-sctimst.shinyapps.io/covid_dashboard/ </a>) which has been well received and won awards at national and international forums. 
 
 <p align="center">
      <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"><img src="https://i.ibb.co/3mm1nKR/dashboard-homepage.png" alt="dashboard-homepage" border="0"></a>

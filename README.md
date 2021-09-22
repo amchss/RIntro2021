@@ -4,11 +4,9 @@
   <br>
   <a href="https://amchss.github.io/RIntro2021/"><img src="https://i.ibb.co/D70mhtD/RIntro2021-hex.png" width="200"></a>
   <br>
-  RIntro2021
+  Data Analysis using R
   <br>
 </h1>
-
-<h4 align="center">A workshop on  <a href="https://amchss.github.io/RIntro2021/" target="_blank">Data Analysis using R</a> for Health Professional organized by  <a href="https://www.sctimst.ac.in/About%20SCTIMST/Organisation/AMCHSS/" target="_blank">AMCHSS</a>, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum.</h4>
 
 <p align="center">
   <a href="#purpose">Purpose</a> •
@@ -19,7 +17,10 @@
   <a href="#contact">Contact</a>
 </p>
 
-<h2>
+<h4 align="center">A workshop for Health Professional organized by  <a href="https://www.sctimst.ac.in/About%20SCTIMST/Organisation/AMCHSS/" target="_blank">AMCHSS</a>, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum.</h4>
+
+## Details of the Workshop
+<h3>
 Register here: https://forms.gle/Pkh6Px7g7WaS6Vpi7
   <br>
 Limited Seats: 20 Participants
@@ -32,7 +33,8 @@ Mode: In-person (Offline)
   <br>
 Registration Fee: Rs. 3,000/- (for students), Rs. 5,000/- (for others)
   <br>
-</h2>
+COVID-19 Dashboard: https://amchss-sctimst.shinyapps.io/covid_dashboard/
+</h3>
 
 ## Purpose 
 
@@ -57,7 +59,7 @@ We are a group of research scholars and faculty at Achutha Menon Centre for Heal
 
 The team has been involved in many research and training activities related to health data science. The major focus of our work has been the tranformation of routine health data into robust evidence for informed decision making using reproducible frameworks and open-source tools incluing R and RStudio. Some of our recent work include the development of a dashboard for tracking and monitoring COVID-19 outbreak in India using publicly available data (https://amchss-sctimst.shinyapps.io/covid_dashboard/) which has been well received and won awards at national and internation forums. 
 
-Some of our recent work on the data science approach to heatlh research are:
+Some of our recent work on the data science approach to health research are:
 
 - Mitra, A., Pakhare, A. P., Roy, A., & Joshi, A. (2020). Impact of COVID-19 epidemic curtailment strategies in selected Indian states: an analysis by reproduction number and doubling time with incidence modelling. PloS one, 15(9), e0239026.
 - Mitra A, Soman B, Singh G. An Interactive Dashboard for Real-Time Analytics and Monitoring of COVID-19 Outbreak in India: A proof of Concept. arXiv preprint arXiv:2108.09937. 2021 Aug 23.
@@ -73,11 +75,17 @@ Some of our recent work on the data science approach to heatlh research are:
 ## Topics Covered
 
 - Managing Projects in RStudio
+
 - Concepts of Tidy Data
+
 - Data Wrangling and Transformation
+
 - Exploratory Data Analysis
+
 - Data Visualization
+
 - Statistical Inference
+
 - Communicating Research with RMarkdown
 
 ## Schedule

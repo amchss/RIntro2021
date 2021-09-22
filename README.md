@@ -63,7 +63,7 @@ We are a group of research scholars and faculty at Achutha Menon Centre for Heal
 
 ## Related Work
 
-The team has been involved in many research and training activities related to health data science. The major focus of our work has been the tranformation of routine health data into robust evidence for informed decision making using reproducible frameworks and open-source tools incluing R and RStudio. Some of our recent work include the development of a dashboard for tracking and monitoring COVID-19 outbreak in India using publicly available data ( <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"> https://amchss-sctimst.shinyapps.io/covid_dashboard/ </a>) which has been well received and won awards at national and internation forums. 
+The team has been involved in many research and training activities related to health data science. The major focus of our work has been the tranformation of routine health data into robust evidence for informed decision making using reproducible frameworks and open-source tools incluing R and RStudio. Some of our recent work include the development of a dashboard for tracking and monitoring COVID-19 outbreak in India using publicly available data ( <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"> https://amchss-sctimst.shinyapps.io/covid_dashboard/ </a>) which has been well received and won awards at national and international forums. 
 
 <p align="center">
      <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"><img src="https://i.ibb.co/3mm1nKR/dashboard-homepage.png" alt="dashboard-homepage" border="0"></a>
@@ -119,7 +119,7 @@ For any queries please contact:
 |Email:   | amchss.sctimst@gmail.com   |  amchss@sctimst.ac.in  |  
 |:---|:---|:---|
 |Phone:   |+91 471 2524638   |   +91 9503563356 |
-|Address:   |  Achutha Menon Centre for Health Science Studies, <br>  New OP Road, near Sree Chitra Tirunal Institute for Medical Sciences & Technology, Medical College Campus, <br> Thiruvananthapuram, Kerala 695011|   <a href="https://goo.gl/maps/7nhZLRb2woLNT4Dm8"><img src="https://i.ibb.co/cD5VTJH/amc-map.jpg" width = "300" alt="AMCHSS Map" border="0"></a>  | 
+|Address:   |  Achutha Menon Centre for Health Science Studies, <br>  Sree Chitra Tirunal Institute for Medical Sciences & Technology, Medical College Campus, <br> Thiruvananthapuram, Kerala 695011|   <a href="https://goo.gl/maps/7nhZLRb2woLNT4Dm8"><img src="https://i.ibb.co/cD5VTJH/amc-map.jpg" width = "300" alt="AMCHSS Map" border="0"></a>  | 
 
 
  

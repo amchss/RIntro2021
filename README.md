@@ -63,7 +63,7 @@ We are a group of research scholars and faculty at Achutha Menon Centre for Heal
 
 ## Related Work
 
-The team has been involved in many research and training activities related to health data science. The major focus of our work has been the transformation of routine health data into robust evidence for informed decision making using reproducible frameworks and open-source tools inclduing R and RStudio. Some of our recent work include the development of a dashboard for tracking and monitoring COVID-19 outbreak in India using publicly available data ( <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"> https://amchss-sctimst.shinyapps.io/covid_dashboard/ </a>) which has been well received and won awards at national and international forums. 
+The team has been involved in many research and training activities related to health data science. The major focus of our work has been the transformation of routine health data into robust evidence for informed decision making using reproducible frameworks and open-source tools inclduing R and RStudio. Some of our recent work include the development of a dashboard for tracking and monitoring COVID-19 outbreak in India using publicly available data (<a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/">https://amchss-sctimst.shinyapps.io/covid_dashboard/</a>) which has been well received and won awards at national and international forums. 
 
 <p align="center">
      <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"><img src="https://i.ibb.co/3mm1nKR/dashboard-homepage.png" alt="dashboard-homepage" border="0"></a>

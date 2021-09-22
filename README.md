@@ -26,11 +26,9 @@ The workshop is envisioned for the development of skilled health professionals w
 ![data-science-life-cycle](https://github.com/amchss/RIntro2021/blob/main/public-health-data-science-r4ds-general.png)
 
 ## Team
-![biju](https://github.com/amchss/RIntro2021/blob/main/biju.png)
-
-![gurpreet](https://github.com/amchss/RIntro2021/blob/main/gurpreet.png)
-
-![arun](https://github.com/amchss/RIntro2021/blob/main/arun1.png)
+<img src="https://github.com/amchss/RIntro2021/blob/main/biju.png" alt="Biju" width="50"/>
+<img src="https://github.com/amchss/RIntro2021/blob/main/gurpreet.png" alt="Gurpreet" width="50"/>
+<img src="https://github.com/amchss/RIntro2021/blob/main/arun1.png" alt="Arun" width="50"/>
 
 ## Key Features
 

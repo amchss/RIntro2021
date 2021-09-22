@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://amchss.github.io/RIntro2021/"><img src="https://github.com/amchss/RIntro2021/blob/main/RIntro2021_hex.png" width="200"></a>
+  <a href="https://amchss.github.io/RIntro2021/"><img src="https://i.ibb.co/D70mhtD/RIntro2021-hex.png" width="200"></a>
   <br>
   RIntro2021
   <br>

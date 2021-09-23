@@ -37,6 +37,10 @@ Limited Seats: 20 Participants
 
 Mode: In-person (Offline/Physical)
 
+ <br> 
+
+<a href="https://raw.githubusercontent.com/amchss/RIntro2021/main/RIntro2021_Flyer-1.png"> Workshop Flyer  </a>
+  
 <br> 
 
 COVID-19 Dashboard: <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"> https://amchss-sctimst.shinyapps.io/covid_dashboard/ </a>

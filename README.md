@@ -22,8 +22,12 @@
 <h4 align="center">A workshop for Health Professional organized by  <a href="https://www.sctimst.ac.in/About%20SCTIMST/Organisation/AMCHSS/" target="_blank">AMCHSS</a>, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum.</h4>
 
 ## Details of the Workshop
+
+<p><del>Hi</del> Hello, world!</p>
+
+~~Hi~~ Hello, world!
 <h3>
-Register here: <a href="https://forms.gle/Pkh6Px7g7WaS6Vpi7"> https://forms.gle/Pkh6Px7g7WaS6Vpi7 </a>
+<p><del> Register here: https://forms.gle/Pkh6Px7g7WaS6Vpi7 </del></p>
 
 <br> 
 

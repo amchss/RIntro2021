@@ -27,7 +27,6 @@
 <h3>
 <p><del> Register here: https://forms.gle/Pkh6Px7g7WaS6Vpi7</del>     &nbsp; &nbsp; &nbsp;       Registrations Closed </p> 
   
-
 <br> 
 
 Registration Fee: Rs. 3,000/- (for students), Rs. 5,000/- (for others)

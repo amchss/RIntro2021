@@ -126,7 +126,7 @@ A tentative schedule of the workshop is provided below:
 The list of selected participants for the RIntro2021 Workshop are given below:
 
 | S.No |            Name           |            Email            |                               Institute                              |
-|:----:|:-------------------------:|:---------------------------:|:--------------------------------------------------------------------:|
+|:----:|-------------------------|---------------------------|--------------------------------------------------------------------|
 | 1    | Dr. Noble Gracious        | ngracious71@gmail.com       | Government Medical College, Trivandrum, KL                           |
 | 2    | Dr. Rohit                 | rohitk520@gmail.com         | UNDP                                                                 |
 | 3    | Dr. Hamsaveni Rajiv       | hamsamedico.rajiv@gmail.com | WHO                                                                  |

@@ -30,11 +30,12 @@
   
 <br> 
 
-Registration Fee: Rs. 3,000/- (for students), Rs. 5,000/- (for others)
+
+<p><del>Limited Seats: 20 Participants </del>  &nbsp; &nbsp; &nbsp;   <a href="https://amchss.github.io/RIntro2021/#selected-participants"> List of Selected Participants </a>  </p> 
 
 <br> 
-
-<p><del>Limited Seats: 20 Participants </del> </p>  <a href="https://amchss-sctimst.shinyapps.io/covid_dashboard/"> List of Selected Participants </a>
+ 
+ Registration Fee: Rs. 3,000/- (for students), Rs. 5,000/- (for others)
 
 <br> 
 

@@ -150,7 +150,7 @@ The list of selected participants for the RIntro2021 Workshop are given below:
 | 21   | Dr.   Syama Satish        | syamasathish@gmail.com      | Amrita   Institute of Medical Sciences, Kochi, KL                    |
 | 22   | Dr. Sneha Georgy          | georgysneha@gmail.com       | Amrita   Institute of Medical Sciences, Kochi, KL                    |
 | 23   | Dr. Sherin Joseph         | thqh.vythiri@gmail.com      | THQH, Vythiri, Wayanad, KL                                           |
-| 24   | Dr. Gurukartick           | gurukart@gmail.com          | Government Medical College, Salem                                    |
+| 24   | Dr. Gurukartick           | gurukart@gmail.com          | Government Medical College, Salem, TN                                |
 
 ## Contact
 

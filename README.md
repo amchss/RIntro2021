@@ -26,7 +26,7 @@
 
 
 <h3>
-<p><del> Register here: https://forms.gle/Pkh6Px7g7WaS6Vpi7</del>     &nbsp; &nbsp; &nbsp;       Registrations Closed </p> 
+<p>Register here: https://forms.gle/Pkh6Px7g7WaS6Vpi7</p> 
   
 <br> 
 

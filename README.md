@@ -126,31 +126,22 @@ A tentative schedule of the workshop is provided below:
 The list of selected participants for the RIntro2021 Workshop are given below:
 
 | S.No |            Name           |            Email            |                               Institute                              |
-|:----:|-------------------------|---------------------------|--------------------------------------------------------------------|
+|:----:|---------------------------|-----------------------------|----------------------------------------------------------------------|
 | 1    | Dr. Noble Gracious        | ngracious71@gmail.com       | Government Medical College, Trivandrum, KL                           |
-| 2    | Dr. Rohit                 | rohitk520@gmail.com         | UNDP                                                                 |
-| 3    | Dr. Hamsaveni Rajiv       | hamsamedico.rajiv@gmail.com | WHO                                                                  |
-| 4    | Dr. Anjana Gopal          | anjanagopal1988@gmail.com   | Government Medical College, Trivandrum, KL                           |
-| 5    | Dr. Soumya Krishnamoorthy | soumyamoorthy.k@gmail.com   | SCTIMST, Trivandrum, KL                                              |
-| 6    | Dr. Himabindu Reddy       | dr.khbreddy@gmail.com       | DMIMS, Wardha, MH                                                    |
-| 7    | Dr. Chetana               | chetana25mamc@gmail.com     | Maulana Azad Medical College, Delhi                                  |
-| 8    | Dr. Bansi Trivedi         | bansijanaktrivedi@gmail.com | Government Medical College, Bhavnagar, GJ                            |
-| 9    | Dr. Abinav Sivakumar      | abi.siva9419@gmail.com      | Mahatma Gandhi Medical College and Research Institute,   Pondicherry |
-| 10   | Dr. Chirag Ramnani        | msdchirag@gmail.com         | Government Medical College, Nagpur, MH                               |
-| 11   | Dr. Sravan Kumar          | sravanbharathi@gmail.com    | SCTIMST, Trivandrum, KL                                              |
-| 12   | Dr. Parvathy Thampy       | drparvathythampy@gmail.com  | AIIMS Bhopal, MP                                                     |
-| 13   | Dr. Ijaz Shahbaz          | shahbazijaz92@gmail.com     | Global Institute of Public Health, Trivandrum, KL                    |
-| 14   | Dr. Anubhuti Sharma       | fuggymuchi14@gmail.com      | Rama Medical College, Kanpur, UP                                     |
-| 15   | Dr. Gauthami Nair         | gauthaminair.13@gmail.com   | SCTIMST, Trivandrum, KL                                              |
-| 16   | Dr. Vidhukumar K          | kumarv68@gmail.com          | Government Medical College, Trivandrum, KL                           |
-| 17   | Dr. Jenyz Mundodan        | jenyz.ali@gmail.com         | Government Medical College Idukki, KL                                |
-| 18   | Dr. Minu Mohan            | dr.minu89@gmail.com         | Government Medical College, Idukki, KL                               |
-| 19   | Dr. Sushma Yadav          | msushmayadav@gmail.com      | AIIMS   Bhopal, MP                                                   |
-| 20   | Dr. Saket Shekar          | drsaketshekhar@gmail.com    | AIIMS   Patna, BR                                                    |
-| 21   | Dr.   Syama Satish        | syamasathish@gmail.com      | Amrita   Institute of Medical Sciences, Kochi, KL                    |
-| 22   | Dr. Sneha Georgy          | georgysneha@gmail.com       | Amrita   Institute of Medical Sciences, Kochi, KL                    |
-| 23   | Dr. Sherin Joseph         | thqh.vythiri@gmail.com      | THQH, Vythiri, Wayanad, KL                                           |
-| 24   | Dr. Gurukartick           | gurukart@gmail.com          | Government Medical College, Salem, TN                                |
+| 2    | Dr. Anjana Gopal          | anjanagopal1988@gmail.com   | Government Medical College, Trivandrum, KL                           |
+| 3    | Dr. Soumya Krishnamoorthy | soumyamoorthy.k@gmail.com   | SCTIMST, Trivandrum, KL                                              |
+| 4    | Dr. Himabindu Reddy       | dr.khbreddy@gmail.com       | DMIMS, Wardha, MH                                                    |
+| 5    | Dr. Abinav Sivakumar      | abi.siva9419@gmail.com      | Mahatma Gandhi Medical College and Research Institute,   Pondicherry |
+| 6    | Dr. Sravan Kumar          | sravanbharathi@gmail.com    | SCTIMST, Trivandrum, KL                                              |
+| 7    | Dr. Parvathy Thampy       | drparvathythampy@gmail.com  | AIIMS Bhopal, MP                                                     |
+| 8    | Dr. Ijaz Shahbaz          | shahbazijaz92@gmail.com     | Global Institute of Public Health, Trivandrum, KL                    |
+| 9    | Dr. Vidhukumar K          | kumarv68@gmail.com          | Government Medical College, Trivandrum, KL                           |
+| 10   | Dr. Jenyz Mundodan        | jenyz.ali@gmail.com         | Government Medical College Idukki, KL                                |
+| 11   | Dr. Minu Mohan            | dr.minu89@gmail.com         | Government Medical College, Idukki, KL                               |
+| 12   | Dr.   Syama Satish        | syamasathish@gmail.com      | Amrita   Institute of Medical Sciences, Kochi, KL                    |
+| 13   | Dr. Sneha Georgy          | georgysneha@gmail.com       | Amrita   Institute of Medical Sciences, Kochi, KL                    |
+| 14   | Dr. Sherin Joseph         | thqh.vythiri@gmail.com      | THQH, Vythiri, Wayanad, KL                                           |
+| 15   | Dr. Gurukartick           | gurukart@gmail.com          | Government Medical College, Salem, TN                                |
 
 ## Contact
 

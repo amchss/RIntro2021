@@ -27,7 +27,7 @@
 
 
 <h3>
-<p>Register here: https://forms.gle/EyW1oAKuqPrxM3QKA</p> 
+<p>Register here: <a href="https://forms.gle/EyW1oAKuqPrxM3QKA" target="_blank">   https://forms.gle/EyW1oAKuqPrxM3QKA  </a> </p> 
   
 <br> 
  

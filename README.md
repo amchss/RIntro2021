@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://amchss.github.io/RIntro2021/"><img src="https://i.ibb.co/KKX9prt/image-2021-11-01-111627.png" ></a>
+  <a href="https://amchss.github.io/RIntro2021/"><img src="https://i.ibb.co/KKX9prt/image-2021-11-01-111627.png" width="1200" ></a>
   <br> 
   Data Analysis using R - Cohort 2
   <br>

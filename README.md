@@ -2,8 +2,8 @@
 
 <h1 align="center">
   <br>
-  <a href="https://amchss.github.io/RIntro2021/"><img src="https://i.ibb.co/D70mhtD/RIntro2021-hex.png" width="200"></a>
-  <br>
+  <a href="https://amchss.github.io/RIntro2021/"><img src="https://i.ibb.co/KKX9prt/image-2021-11-01-111627.png" ></a>
+  <br> 
   Data Analysis using R - Cohort 2
   <br>
   09 - 11 December, 2021
@@ -25,13 +25,8 @@
 
 
 <h3>
-<p>Register here: https://forms.gle/Pkh6Px7g7WaS6Vpi7</p> 
+<p>Register here: https://forms.gle/EyW1oAKuqPrxM3QKA</p> 
   
-<br> 
-
-
-<p><del>Limited Seats: 20 Participants </del>  &nbsp; &nbsp; &nbsp;   <a href="https://amchss.github.io/RIntro2021/#selected-participants"> List of Selected Participants </a>  </p> 
-
 <br> 
  
  Registration Fee: Rs. 3,000/- (for students), Rs. 5,000/- (for others)

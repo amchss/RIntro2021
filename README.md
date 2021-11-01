@@ -10,10 +10,7 @@
   <br>
     Hurry!
   <br>
-  
-```diff
--   Registation Closes on 15th November 2021 - 
-```
+Registation Closes on 15th November 2021 
   <br>
 </h1>
 

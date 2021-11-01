@@ -11,7 +11,9 @@ html {
   <br>
   <a href="https://amchss.github.io/RIntro2021/"><img src="https://i.ibb.co/KKX9prt/image-2021-11-01-111627.png" width="1200" ></a>
   <br> 
-  Data Analysis using R - Cohort 2
+  Due to the overwhelming response and requests RIntro2021 - Data Analysis using R is back for the Cohort - 2. 
+  <br>
+  Registrations Open! Apply Now!
   <br>
   09 - 11 December, 2021
   <br>

@@ -34,6 +34,7 @@
  Registation Closes on 15th November 2021
  
   <br>
+  <br>
  Registration Fee: Rs. 3,000/- (for students), Rs. 5,000/- (for others)
 
 <br> 

@@ -8,7 +8,7 @@
   <br>
   
 ```diff
-- text in red
+-  Hurry! - 
 + text in green
 ! text in orange
 # text in gray

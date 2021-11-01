@@ -6,19 +6,12 @@
   <br>
   <a href="https://amchss.github.io/RIntro2021/"><img src="https://i.ibb.co/KKX9prt/image-2021-11-01-111627.png" width="1200" ></a>
   <br>
+    Hurry!
+  <br>
   
 ```diff
--  Hurry! - 
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+-   Registation Closes on 15th November 2021 - 
 ```
-  
-  <br>
-  Hurry!
-  <br>
- Registation Closes on 15th November 2021
   <br>
   09 - 11 December, 2021
   <br>

@@ -4,9 +4,9 @@
   <br>
   <a href="https://amchss.github.io/RIntro2021/"><img src="https://i.ibb.co/D70mhtD/RIntro2021-hex.png" width="200"></a>
   <br>
-  Data Analysis using R
+  Data Analysis using R - Cohort 2
   <br>
-  21 - 23 October, 2021
+  09 - 11 December, 2021
   <br>
 </h1>
 
@@ -16,7 +16,6 @@
   <a href="#related-work">Related Work</a> •
   <a href="#topics-covered">Topics Covered</a> •
   <a href="#schedule">Schedule</a> •
-  <a href="#selected-participants">Selected Participants</a> •
   <a href="#contact">Contact</a>
 </p>
 
@@ -113,35 +112,13 @@ A tentative schedule of the workshop is provided below:
 
 |         Date       |       Timings    |     Topic                                              |
 |:------------------:|:----------------:|--------------------------------------------------------|
-|     21 Oct 2021    |     0900-1300    |     Introduction and Concepts                          | 
+|     09 Dec 2021    |     0900-1300    |     Introduction and Concepts                          | 
 |                    |     1400-1700    |     Project Management                                 |  
-|     22 Oct 2021    |     0900-1300    |     Exploratory Data Analysis and Data Visualization   |   
+|     10 Dec 2021    |     0900-1300    |     Exploratory Data Analysis and Data Visualization   |   
 |                    |     1400-1700    |     Statistical analysis                               |   
-|     23 Oct 2021    |     0900-1300    |     Communicating Results                              |   
+|     11 Dec 2021    |     0900-1300    |     Communicating Results                              |   
 |                    |     1400-1700    |     Advanced concepts / Feedback / Valedictory         | 
 
-
-## Selected Participants
-
-The list of selected participants for the RIntro2021 Workshop are given below:
-
-| S.No |            Name           |            Email            |                               Institute                              |
-|:----:|---------------------------|-----------------------------|----------------------------------------------------------------------|
-| 1    | Dr. Noble Gracious        | ngracious71@gmail.com       | Government Medical College, Trivandrum, KL                           |
-| 2    | Dr. Anjana Gopal          | anjanagopal1988@gmail.com   | Government Medical College, Trivandrum, KL                           |
-| 3    | Dr. Soumya Krishnamoorthy | soumyamoorthy.k@gmail.com   | SCTIMST, Trivandrum, KL                                              |
-| 4    | Dr. Himabindu Reddy       | dr.khbreddy@gmail.com       | DMIMS, Wardha, MH                                                    |
-| 5    | Dr. Abinav Sivakumar      | abi.siva9419@gmail.com      | Mahatma Gandhi Medical College and Research Institute,   Pondicherry |
-| 6    | Dr. Sravan Kumar          | sravanbharathi@gmail.com    | SCTIMST, Trivandrum, KL                                              |
-| 7    | Dr. Parvathy Thampy       | drparvathythampy@gmail.com  | AIIMS Bhopal, MP                                                     |
-| 8    | Dr. Ijaz Shahbaz          | shahbazijaz92@gmail.com     | Global Institute of Public Health, Trivandrum, KL                    |
-| 9    | Dr. Vidhukumar K          | kumarv68@gmail.com          | Government Medical College, Trivandrum, KL                           |
-| 10   | Dr. Jenyz Mundodan        | jenyz.ali@gmail.com         | Government Medical College Idukki, KL                                |
-| 11   | Dr. Minu Mohan            | dr.minu89@gmail.com         | Government Medical College, Idukki, KL                               |
-| 12   | Dr.   Syama Satish        | syamasathish@gmail.com      | Amrita   Institute of Medical Sciences, Kochi, KL                    |
-| 13   | Dr. Sneha Georgy          | georgysneha@gmail.com       | Amrita   Institute of Medical Sciences, Kochi, KL                    |
-| 14   | Dr. Sherin Joseph         | thqh.vythiri@gmail.com      | THQH, Vythiri, Wayanad, KL                                           |
-| 15   | Dr. Gurukartick           | gurukart@gmail.com          | Government Medical College, Salem, TN                                |
 
 ## Contact
 

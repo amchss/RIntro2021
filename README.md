@@ -1,5 +1,7 @@
 <h1 align = "center">
   RIntro2021 is back for the Cohort - 2
+    <br>
+  09 - 11 December, 2021
   </h1>
 
 <h1 align="center">
@@ -12,8 +14,6 @@
 ```diff
 -   Registation Closes on 15th November 2021 - 
 ```
-  <br>
-  09 - 11 December, 2021
   <br>
 </h1>
 

@@ -1,17 +1,10 @@
-html { 
-  background: url(images/bg.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
+<h1 align = "center">
+  RIntro2021 is back for the Cohort - 2
+  </h1>
 
 <h1 align="center">
   <br>
   <a href="https://amchss.github.io/RIntro2021/"><img src="https://i.ibb.co/KKX9prt/image-2021-11-01-111627.png" width="1200" ></a>
-  <br> 
-  Due to the overwhelming response and requests RIntro2021 - Data Analysis using R is back for the Cohort - 2. 
   <br>
   Registrations Open! Apply Now!
   <br>

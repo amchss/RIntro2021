@@ -30,7 +30,10 @@
 <p>Register here: <a href="https://forms.gle/EyW1oAKuqPrxM3QKA" target="_blank">   https://forms.gle/EyW1oAKuqPrxM3QKA  </a> </p> 
   
 <br> 
+  Hurry!
+ Registation Closes on 15th November 2021
  
+  <br>
  Registration Fee: Rs. 3,000/- (for students), Rs. 5,000/- (for others)
 
 <br> 

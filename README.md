@@ -42,6 +42,19 @@ Registation Closes on 15th November 2021
 <br> 
 
 Mode: In-person (Offline/Physical)
+  
+  <br>
+  Important Dates:
+  
+  1. Opening of Registration: 04 Nov, 2021   
+  
+  2. Closing of Registration: 15 Nov, 2021  
+  
+  3. Intimation of shortlisted Candidates: 16 Nov, 2021  
+  
+  4. Payment Deadline: 20 Nov, 2021  
+  
+  5. Workshop Dates: 09-11 Dec, 2021
 
  <br> 
 

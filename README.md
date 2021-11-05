@@ -1,7 +1,7 @@
 <h1 align = "center">
   RIntro2021 is back for the Cohort - 2
     <br>
-  09 - 11 December, 2021
+  06 - 08 December, 2021
   </h1>
 
 <h1 align="center">
@@ -45,16 +45,16 @@ Mode: In-person (Offline/Physical)
   
   <br>
   Important Dates:
-  
+  <br>
   1. Opening of Registration: 04 Nov, 2021   
-  
+  <br>
   2. Closing of Registration: 15 Nov, 2021  
-  
+  <br>
   3. Intimation of shortlisted Candidates: 16 Nov, 2021  
-  
+  <br>
   4. Payment Deadline: 20 Nov, 2021  
-  
-  5. Workshop Dates: 09-11 Dec, 2021
+  <br>
+  5. Workshop Dates: 06-08 Dec, 2021
 
  <br> 
 

@@ -46,7 +46,9 @@ Registation Closes on 15th November 2021
 Mode: In-person (Offline/Physical)
   <br>
   <br>
+  <br>
   Important Dates:
+  <br>
   <br>
   1. Opening of Registration: 04 Nov, 2021   
   <br>
@@ -57,8 +59,9 @@ Mode: In-person (Offline/Physical)
   4. Payment Deadline: 20 Nov, 2021  
   <br>
   5. Workshop Dates: 06-08 Dec, 2021
-
+<br>
  <br> 
+  <br>
 
 <a href="https://github.com/amchss/RIntro2021/blob/main/RIntro2021_Cohort2_Flyer.pdf" target="_blank">   Workshop Flyer  </a>
   

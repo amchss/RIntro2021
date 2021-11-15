@@ -10,7 +10,9 @@
   <br>
     Hurry!
   <br>
-Registation Closes on 15th November 2021 
+<p><del>Registation Closes on 15th November 2021</del></p>
+  <br>
+  Registration Extended until 25th November 2021
   <br>
 </h1>
 
@@ -33,7 +35,10 @@ Registation Closes on 15th November 2021
   <br>
 <br> 
   Hurry!
- Registation Closes on 15th November 2021
+<p><del>Registation Closes on 15th November 2021</del></p>
+  <br>
+  Registration Extended until 25th November 2021
+  <br>
  <br>
   <br>
   <br>

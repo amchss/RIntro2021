@@ -136,11 +136,11 @@ A tentative schedule of the workshop is provided below:
 
 |         Date       |       Timings    |     Topic                                              |
 |:------------------:|:----------------:|--------------------------------------------------------|
-|     09 Dec 2021    |     0900-1300    |     Introduction and Concepts                          | 
+|     06 Dec 2021    |     0900-1300    |     Introduction and Concepts                          | 
 |                    |     1400-1700    |     Project Management                                 |  
-|     10 Dec 2021    |     0900-1300    |     Exploratory Data Analysis and Data Visualization   |   
+|     07 Dec 2021    |     0900-1300    |     Exploratory Data Analysis and Data Visualization   |   
 |                    |     1400-1700    |     Statistical analysis                               |   
-|     11 Dec 2021    |     0900-1300    |     Communicating Results                              |   
+|     08 Dec 2021    |     0900-1300    |     Communicating Results                              |   
 |                    |     1400-1700    |     Advanced concepts / Feedback / Valedictory         | 
 
 
